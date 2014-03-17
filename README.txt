@@ -4,8 +4,8 @@ Git OSX Installer
 
 https://github.com/timcharper/git_osx_installer/
 
-meh
-INSTALLATION
+
+BEST INSTALLATION EVER!!!
 ============
 
 Step 1 - Install Package
